@@ -9,6 +9,7 @@
 
 #btn:hover {
    color: black;
+   border: none;
    border-radius: 30px;
    background: yellow;
 }
