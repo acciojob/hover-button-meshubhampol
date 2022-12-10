@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-#btn {
+button {
   color: white;
   border: none;
   border-radius: 5px;
   background: black;
 }
 
-#btn:hover {
+button:hover {
    color: black;
    border: none;
    border-radius: 30px;
